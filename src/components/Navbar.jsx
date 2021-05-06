@@ -22,11 +22,6 @@ const Navbar = (props) => {
             onChange={props.onChange}
           />
         </div>
-        {/* <ul className="search-list">
-          <li value="">sdfsd</li>
-          <li value="">sdfsd</li>
-          <li value="">sdfsd</li>
-        </ul> */}
       </div>
       
       <div
